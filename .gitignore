@@ -4,3 +4,14 @@
 *.jar
 *.war
 *.ear
+
+# Configuration Files #
+*.gconf
+
+# Sprite Files #
+*.png
+*.jpg
+
+# Sound Files #
+*.mp3
+*.wma
